@@ -8,6 +8,7 @@ Article checked for typos
 
 **Comment by**: Kristina Aslanian
 Interesting article about SWE. This article highlights how the role of software engineers is shifting from manual coding to more strategic problem-solving, with a focus on collaboration and business context. It emphasizes that AI tools are enhancing engineers' work rather than replacing them, making soft skills increasingly important. 
+
 **Comment by**: Fuad Thabit
 I particularly appreciate how the article emphasizes the importance of continuous learning in the field. The mention of 
 different engineering roles, such as front-end, back-end, and full-stack, provides clarity for individuals considering 
